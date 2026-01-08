@@ -1,0 +1,24 @@
+assetId: "takemethere-bell-canada-microwave-relay-tower-hd-version"
+url: "https://community.simtropolis.com/files/file/36456-bell-canada-microwave-relay-tower-hd-version/?do=download"
+version: "1.0.0"
+lastModified: "2024-09-21T04:30Z"
+checksum:
+  sha256: "a1baed99083e3130d1193e2037938dac1c54bf6727b63ca8c3bafdcbb41be7be"
+
+---
+group: "takemethere"
+name: "bell-canadamicrowave-relay-tower-hd-version"
+version: "1.0.0"
+subfolder: "360-landmark"
+info:
+  summary: "A 160m tall microwave relay lattice tower located in Toronto, Canada."
+  author: "TakemeThere"
+  description: |2-
+     This is the updated 3ds HD version of the 2nd release of the Towers of Steel Project. The Bell Canada Microwave Relay Tower is a 160m tall microwave relay lattice tower(556ft/169m to the antenna tip) located in Toronto, Canada. The tower has a relatively simple structure which allows for objects behind it to be seen clearly through it. There are two versions, one with the darker real life textures and another with grey metallic and rusted texture. Some industrial high tech cap relief is also provided. 
+  images:
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee7b9235684_BellCanada.png.b2b926c12747ffb15e5a478f726a9ce4.png"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee7bc676d1b_Grayupclose.jpg.f401757fc14bc2389b98ab1c74ef7663.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee7bcb09da6_Blackupclose.jpg.b5575acf60c99a67242e6bf90bc71ab5.jpg"
+  - "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee811341bef_BellCanIRL.jpg.581d625967981b3dd6f902af7d6cd670.jpg"
+assets:
+- assetId: "takemethere-bell-canada-microwave-relay-tower-hd-version"
