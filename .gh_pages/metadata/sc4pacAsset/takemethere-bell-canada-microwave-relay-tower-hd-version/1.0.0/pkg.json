@@ -1,0 +1,13 @@
+{
+ "$type": "Asset",
+ "assetId": "takemethere-bell-canada-microwave-relay-tower-hd-version",
+ "version": "1.0.0",
+ "url": "https://community.simtropolis.com/files/file/36456-bell-canada-microwave-relay-tower-hd-version/?do=download",
+ "lastModified": "2024-09-21T04:30:00Z",
+ "requiredBy": [
+  "takemethere:bell-canadamicrowave-relay-tower-hd-version"
+ ],
+ "checksum": {
+  "sha256": "a1baed99083e3130d1193e2037938dac1c54bf6727b63ca8c3bafdcbb41be7be"
+ }
+}

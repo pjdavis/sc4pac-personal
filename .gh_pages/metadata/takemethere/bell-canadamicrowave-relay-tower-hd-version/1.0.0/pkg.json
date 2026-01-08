@@ -1,0 +1,40 @@
+{
+ "$type": "Package",
+ "group": "takemethere",
+ "name": "bell-canadamicrowave-relay-tower-hd-version",
+ "version": "1.0.0",
+ "subfolder": "360-landmark",
+ "info": {
+  "summary": "A 160m tall microwave relay lattice tower located in Toronto, Canada.",
+  "description": " This is the updated 3ds HD version of the 2nd release of the Towers of Steel Project. The Bell Canada Microwave Relay Tower is a 160m tall microwave relay lattice tower(556ft/169m to the antenna tip) located in Toronto, Canada. The tower has a relatively simple structure which allows for objects behind it to be seen clearly through it. There are two versions, one with the darker real life textures and another with grey metallic and rusted texture. Some industrial high tech cap relief is also provided. ",
+  "author": "TakemeThere",
+  "images": [
+   "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee7b9235684_BellCanada.png.b2b926c12747ffb15e5a478f726a9ce4.png",
+   "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee7bc676d1b_Grayupclose.jpg.f401757fc14bc2389b98ab1c74ef7663.jpg",
+   "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee7bcb09da6_Blackupclose.jpg.b5575acf60c99a67242e6bf90bc71ab5.jpg",
+   "https://www.simtropolis.com/objects/screens/monthly_2024_09/66ee811341bef_BellCanIRL.jpg.581d625967981b3dd6f902af7d6cd670.jpg"
+  ]
+ },
+ "variants": [
+  {
+   "variant": {},
+   "assets": [
+    {
+     "assetId": "takemethere-bell-canada-microwave-relay-tower-hd-version"
+    }
+   ]
+  }
+ ],
+ "metadataSource": [
+  "bell-canada-microwave-relay-tower.yaml"
+ ],
+ "metadataSourceUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/blob/channel/yaml/bell-canada-microwave-relay-tower.yaml"
+ ],
+ "metadataIssueUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/issues/new?title=%5Btakemethere%3Abell-canadamicrowave-relay-tower-hd-version%5D+New+bug+report&body=Package%3A+%5B%60takemethere%3Abell-canadamicrowave-relay-tower-hd-version%60%5D%28https%3A%2F%2Fgithub.com%2Fpjdavis%2Fsc4pac-personal%2Fblob%2Fchannel%2Fyaml%2Fbell-canada-microwave-relay-tower.yaml%29%0A%0ADescribe+the+problem+here%E2%80%A6"
+ ],
+ "channelLabel": [
+  "PJ'S SC4PAC CHANNEL"
+ ]
+}
