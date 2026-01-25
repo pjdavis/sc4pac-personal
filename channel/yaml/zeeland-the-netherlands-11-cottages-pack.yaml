@@ -1,0 +1,23 @@
+assetId: "marcoheutink-zeeland-the-netherlands-11-cottages-pack"
+url: "https://community.simtropolis.com/files/file/22324-zeeland-the-netherlands-11-cottages-pack/?do=download"
+version: "1.0"
+lastModified: "2009-08-22T10:36Z"
+checksum:
+  sha256: 4331f7e78f27291d2078102243945e728bd2801d23e54e7565061b92986530a3
+
+---
+group: "marcoheutink"
+name: "zeeland-the-netherlands-11-cottages-pack"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "11 1x1 rural cottages inspired by houses in the Netherlands."
+  description: |-
+    Here's a fresh delivery of rural cottages. There's 11 1x1 models with lots included in this package. The designs are loosely inspired by houses from Dreischor, Zonnemaire and Brouwershaven, the Netherlands.
+  author: "marcoheutink"
+  website: "https://community.simtropolis.com/files/file/22324-zeeland-the-netherlands-11-cottages-pack/"
+  images:
+    - "https://www.simtropolis.com/objects/screens/0019/a8cd2147c537bb8ab84a53b07a9e026e-zeelandss1.jpg"
+    - "https://www.simtropolis.com/objects/screens/0019/a8cd2147c537bb8ab84a53b07a9e026e-zeelandss2.jpg"
+assets:
+  - assetId: "marcoheutink-zeeland-the-netherlands-11-cottages-pack"

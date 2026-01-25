@@ -1,0 +1,41 @@
+{
+ "$type": "Package",
+ "group": "marcoheutink",
+ "name": "zeeland-the-netherlands-11-cottages-pack",
+ "version": "1.0.0",
+ "subfolder": "200-residential",
+ "info": {
+  "summary": "11 1x1 rural cottages inspired by houses in the Netherlands.",
+  "description": "Here's a fresh delivery of rural cottages. There's 11 1x1 models with lots included in this package. The designs are loosely inspired by houses from Dreischor, Zonnemaire and Brouwershaven, the Netherlands.",
+  "author": "marcoheutink",
+  "images": [
+   "https://www.simtropolis.com/objects/screens/0019/a8cd2147c537bb8ab84a53b07a9e026e-zeelandss1.jpg",
+   "https://www.simtropolis.com/objects/screens/0019/a8cd2147c537bb8ab84a53b07a9e026e-zeelandss2.jpg"
+  ],
+  "websites": [
+   "https://community.simtropolis.com/files/file/22324-zeeland-the-netherlands-11-cottages-pack/"
+  ]
+ },
+ "variants": [
+  {
+   "variant": {},
+   "assets": [
+    {
+     "assetId": "marcoheutink-zeeland-the-netherlands-11-cottages-pack"
+    }
+   ]
+  }
+ ],
+ "metadataSource": [
+  "zeeland-the-netherlands-11-cottages-pack.yaml"
+ ],
+ "metadataSourceUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/blob/main/channel/yaml/zeeland-the-netherlands-11-cottages-pack.yaml"
+ ],
+ "metadataIssueUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/issues/new?title=%5Bmarcoheutink%3Azeeland-the-netherlands-11-cottages-pack%5D+New+bug+report&body=Package%3A+%5B%60marcoheutink%3Azeeland-the-netherlands-11-cottages-pack%60%5D%28https%3A%2F%2Fgithub.com%2Fpjdavis%2Fsc4pac-personal%2Fblob%2Fmain%2Fchannel%2Fyaml%2Fzeeland-the-netherlands-11-cottages-pack.yaml%29+from+https%3A%2F%2Fcommunity.simtropolis.com%2Ffiles%2Ffile%2F22324-zeeland-the-netherlands-11-cottages-pack%2F%0A%0ADescribe+the+problem+here%E2%80%A6"
+ ],
+ "channelLabel": [
+  "PJ'S SC4PAC CHANNEL"
+ ]
+}
