@@ -1,0 +1,7 @@
+{
+ "group": "bsc",
+ "name": "mega-props-d66-vol03",
+ "requiredBy": [
+  "bnl:franku-essentials"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "$type": "Asset",
+ "assetId": "vanderaap-langeraar-geerweg-31",
+ "version": "1.0",
+ "url": "https://community.simtropolis.com/files/file/4049-vda-langeraar-geerweg-31/?do=download",
+ "lastModified": "2004-08-08T23:14:00Z",
+ "requiredBy": [
+  "vanderaap:langeraar-geerweg-31"
+ ],
+ "checksum": {
+  "sha256": "fb828f69bd71d0367d74e03497269efd87ed917945f4aa5cce3453f243654f67"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "$type": "Package",
+ "group": "marcoheutink",
+ "name": "village-pack-9",
+ "version": "1.0.0",
+ "subfolder": "200-residential",
+ "info": {
+  "summary": "Village Pack - 9 houses from Zeeland, the Netherlands",
+  "description": "11 1x1 rural cottages inspired by houses in the Netherlands.",
+  "author": "marcoheutink",
+  "images": [
+   "https://www.simtropolis.com/objects/screens/0020/b84af610d913c5bafcf35bd21ee114be-zeeland_villagess1.jpg",
+   "https://www.simtropolis.com/objects/screens/0020/b84af610d913c5bafcf35bd21ee114be-zeeland_villagess2.jpg"
+  ],
+  "websites": [
+   "https://community.simtropolis.com/files/file/22379-village-pack-9-new-houses-from-zeeland-the-netherlands/"
+  ],
+  "requiredBy": [
+   "bnl:franku-essentials"
+  ]
+ },
+ "variants": [
+  {
+   "variant": {},
+   "assets": [
+    {
+     "assetId": "marcoheutink-village-pack-9"
+    }
+   ]
+  }
+ ],
+ "metadataSource": [
+  "village-pack-9.yaml"
+ ],
+ "metadataSourceUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/blob/main/channel/yaml/village-pack-9.yaml"
+ ],
+ "metadataIssueUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/issues/new?title=%5Bmarcoheutink%3Avillage-pack-9%5D+New+bug+report&body=Package%3A+%5B%60marcoheutink%3Avillage-pack-9%60%5D%28https%3A%2F%2Fgithub.com%2Fpjdavis%2Fsc4pac-personal%2Fblob%2Fmain%2Fchannel%2Fyaml%2Fvillage-pack-9.yaml%29+from+https%3A%2F%2Fcommunity.simtropolis.com%2Ffiles%2Ffile%2F22379-village-pack-9-new-houses-from-zeeland-the-netherlands%2F%0A%0ADescribe+the+problem+here%E2%80%A6"
+ ],
+ "channelLabel": [
+  "PJ'S SC4PAC CHANNEL"
+ ]
+}

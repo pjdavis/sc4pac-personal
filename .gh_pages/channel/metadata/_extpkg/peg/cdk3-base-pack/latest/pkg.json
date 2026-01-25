@@ -1,0 +1,7 @@
+{
+ "group": "peg",
+ "name": "cdk3-base-pack",
+ "requiredBy": [
+  "bnl:franku-essentials"
+ ]
+}

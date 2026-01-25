@@ -1,0 +1,38 @@
+{
+ "$type": "Package",
+ "group": "starfinder9659",
+ "name": "rail-fence-kit",
+ "version": "1.0.0",
+ "subfolder": "660-parks",
+ "info": {
+  "summary": "Set of rural to city style rail fences",
+  "description": "today i am uploading a set of rail fences ranging from rural fences to city fences,\nthere are 7 overhanging fences that link up to make  a long fence.\nthey are all transit enabled",
+  "author": "starfinder9659",
+  "images": [
+   "https://www.simtropolis.com/objects/screens/0001/0405e036ffc73db2bbf8d017cc5babc3-simtropolis.JPG",
+   "https://www.simtropolis.com/objects/screens/0001/0405e036ffc73db2bbf8d017cc5babc3-simtropolis%202.JPG"
+  ]
+ },
+ "variants": [
+  {
+   "variant": {},
+   "assets": [
+    {
+     "assetId": "starfinder9659-rail-fence-kit"
+    }
+   ]
+  }
+ ],
+ "metadataSource": [
+  "rail-fence-kit.yaml"
+ ],
+ "metadataSourceUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/blob/main/channel/yaml/rail-fence-kit.yaml"
+ ],
+ "metadataIssueUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/issues/new?title=%5Bstarfinder9659%3Arail-fence-kit%5D+New+bug+report&body=Package%3A+%5B%60starfinder9659%3Arail-fence-kit%60%5D%28https%3A%2F%2Fgithub.com%2Fpjdavis%2Fsc4pac-personal%2Fblob%2Fmain%2Fchannel%2Fyaml%2Frail-fence-kit.yaml%29%0A%0ADescribe+the+problem+here%E2%80%A6"
+ ],
+ "channelLabel": [
+  "PJ'S SC4PAC CHANNEL"
+ ]
+}

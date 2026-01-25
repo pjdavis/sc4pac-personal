@@ -1,0 +1,23 @@
+assetId: "marcoheutink-village-pack-9"
+url: "https://community.simtropolis.com/files/file/22379-village-pack-9-new-houses-from-zeeland-the-netherlands/?do=download"
+version: "1.0"
+lastModified: "2009-08-28T12:06Z"
+checksum:
+  sha256: d36c9f4bdbb17b7d8d55b995ab708fbb01f9a46ed9bcddb7f41d0200fe1fd968
+
+---
+group: "marcoheutink"
+name: "village-pack-9"
+version: "1.0.0"
+subfolder: "200-residential"
+info:
+  summary: "Village Pack - 9 houses from Zeeland, the Netherlands"
+  description: |-
+    11 1x1 rural cottages inspired by houses in the Netherlands.
+  author: "marcoheutink"
+  website: "https://community.simtropolis.com/files/file/22379-village-pack-9-new-houses-from-zeeland-the-netherlands/"
+  images:
+    - "https://www.simtropolis.com/objects/screens/0020/b84af610d913c5bafcf35bd21ee114be-zeeland_villagess1.jpg"
+    - "https://www.simtropolis.com/objects/screens/0020/b84af610d913c5bafcf35bd21ee114be-zeeland_villagess2.jpg"
+assets:
+  - assetId: "marcoheutink-village-pack-9"

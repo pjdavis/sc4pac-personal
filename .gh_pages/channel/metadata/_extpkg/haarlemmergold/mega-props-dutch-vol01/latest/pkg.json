@@ -1,0 +1,7 @@
+{
+ "group": "haarlemmergold",
+ "name": "mega-props-dutch-vol01",
+ "requiredBy": [
+  "bnl:franku-essentials"
+ ]
+}

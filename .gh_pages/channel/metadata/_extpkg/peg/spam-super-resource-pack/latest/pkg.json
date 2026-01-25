@@ -1,0 +1,7 @@
+{
+ "group": "peg",
+ "name": "spam-super-resource-pack",
+ "requiredBy": [
+  "bnl:franku-essentials"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "$type": "Asset",
+ "assetId": "marcoheutink-village-pack-9",
+ "version": "1.0",
+ "url": "https://community.simtropolis.com/files/file/22379-village-pack-9-new-houses-from-zeeland-the-netherlands/?do=download",
+ "lastModified": "2009-08-28T12:06:00Z",
+ "requiredBy": [
+  "marcoheutink:village-pack-9"
+ ],
+ "checksum": {
+  "sha256": "d36c9f4bdbb17b7d8d55b995ab708fbb01f9a46ed9bcddb7f41d0200fe1fd968"
+ }
+}

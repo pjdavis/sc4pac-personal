@@ -1,0 +1,7 @@
+{
+ "group": "sfbt",
+ "name": "rfr-maize-set",
+ "requiredBy": [
+  "bnl:franku-essentials"
+ ]
+}

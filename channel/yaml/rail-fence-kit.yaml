@@ -1,0 +1,24 @@
+assetId: "starfinder9659-rail-fence-kit"
+url: "https://community.simtropolis.com/files/file/23608-rail-fence-kit/?do=download"
+version: "1.0.0"
+lastModified: "2010-03-30T19:56Z"
+checksum:
+  sha256: "5fa7d8f32b259fdd29c3beb8cc53b1b869fedd52936f3d8362680e2fa0f8fc2f"
+
+---
+group: "starfinder9659"
+name: "rail-fence-kit"
+version: "1.0.0"
+subfolder: "660-parks"
+info:
+  summary: "Set of rural to city style rail fences"
+  author: "starfinder9659"
+  description: |2-
+    today i am uploading a set of rail fences ranging from rural fences to city fences,
+    there are 7 overhanging fences that link up to make  a long fence.
+    they are all transit enabled
+  images:
+    - "https://www.simtropolis.com/objects/screens/0001/0405e036ffc73db2bbf8d017cc5babc3-simtropolis.JPG"
+    - "https://www.simtropolis.com/objects/screens/0001/0405e036ffc73db2bbf8d017cc5babc3-simtropolis%202.JPG"
+assets:
+  - assetId: "starfinder9659-rail-fence-kit"

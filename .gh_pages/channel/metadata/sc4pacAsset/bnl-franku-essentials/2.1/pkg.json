@@ -1,0 +1,13 @@
+{
+ "$type": "Asset",
+ "assetId": "bnl-franku-essentials",
+ "version": "2.1",
+ "url": "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=228:bnl-franku-essentials-v2&catid=22",
+ "lastModified": "2024-01-22T02:03:00Z",
+ "requiredBy": [
+  "bnl:franku-essentials"
+ ],
+ "checksum": {
+  "sha256": "7b95b89d9ae26602f7de3335ee7cc0152e0bc34ee64f97652206bd76239360a7"
+ }
+}

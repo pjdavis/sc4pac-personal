@@ -1,0 +1,13 @@
+{
+ "$type": "Asset",
+ "assetId": "starfinder9659-rail-fence-kit",
+ "version": "1.0.0",
+ "url": "https://community.simtropolis.com/files/file/23608-rail-fence-kit/?do=download",
+ "lastModified": "2010-03-30T19:56:00Z",
+ "requiredBy": [
+  "starfinder9659:rail-fence-kit"
+ ],
+ "checksum": {
+  "sha256": "5fa7d8f32b259fdd29c3beb8cc53b1b869fedd52936f3d8362680e2fa0f8fc2f"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "$type": "Package",
+ "group": "bnl",
+ "name": "franku-essentials",
+ "version": "2.1",
+ "subfolder": "100-props-textures",
+ "info": {
+  "summary": "BNL Essentials",
+  "description": "The BNL Essentials is a set of files packed into one upload that is necessary for most BNL Lots to work properly. If it is needed the file will be added to the dependencies list of a certain upload. The BNL Essentials will be updated regularly and we will name the needed version in our uploads, so that you can be sure you do not have an outdated one for that certain lot. You can expect props, models, mod files…. Anything.",
+  "author": "FrankU",
+  "websites": [
+   "https://www.sc4evermore.com/index.php/downloads/download/228-bnl-franku-essentials-v2"
+  ]
+ },
+ "variants": [
+  {
+   "variant": {},
+   "dependencies": [
+    {
+     "group": "bsc",
+     "name": "mega-props-d66-vol03",
+     "version": "latest.release"
+    },
+    {
+     "group": "peg",
+     "name": "cdk3-base-pack",
+     "version": "latest.release"
+    },
+    {
+     "group": "peg",
+     "name": "spam-super-resource-pack",
+     "version": "latest.release"
+    },
+    {
+     "group": "haarlemmergold",
+     "name": "mega-props-dutch-vol01",
+     "version": "latest.release"
+    },
+    {
+     "group": "sfbt",
+     "name": "rfr-maize-set",
+     "version": "latest.release"
+    },
+    {
+     "group": "vanderaap",
+     "name": "langeraar-geerweg-31",
+     "version": "latest.release"
+    },
+    {
+     "group": "marcoheutink",
+     "name": "zeeland-the-netherlands-11-cottages-pack",
+     "version": "latest.release"
+    },
+    {
+     "group": "marcoheutink",
+     "name": "village-pack-9",
+     "version": "latest.release"
+    }
+   ],
+   "assets": [
+    {
+     "assetId": "bnl-franku-essentials"
+    }
+   ]
+  }
+ ],
+ "metadataSource": [
+  "franku-essentials.yaml"
+ ],
+ "metadataSourceUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/blob/main/channel/yaml/franku-essentials.yaml"
+ ],
+ "metadataIssueUrl": [
+  "https://github.com/pjdavis/sc4pac-personal/issues/new?title=%5Bbnl%3Afranku-essentials%5D+New+bug+report&body=Package%3A+%5B%60bnl%3Afranku-essentials%60%5D%28https%3A%2F%2Fgithub.com%2Fpjdavis%2Fsc4pac-personal%2Fblob%2Fmain%2Fchannel%2Fyaml%2Ffranku-essentials.yaml%29+from+https%3A%2F%2Fwww.sc4evermore.com%2Findex.php%2Fdownloads%2Fdownload%2F228-bnl-franku-essentials-v2%0A%0ADescribe+the+problem+here%E2%80%A6"
+ ],
+ "channelLabel": [
+  "PJ'S SC4PAC CHANNEL"
+ ]
+}

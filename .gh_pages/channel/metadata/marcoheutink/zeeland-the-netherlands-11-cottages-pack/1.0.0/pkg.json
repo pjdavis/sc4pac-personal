@@ -14,6 +14,9 @@
   ],
   "websites": [
    "https://community.simtropolis.com/files/file/22324-zeeland-the-netherlands-11-cottages-pack/"
+  ],
+  "requiredBy": [
+   "bnl:franku-essentials"
   ]
  },
  "variants": [
